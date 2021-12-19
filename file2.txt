@@ -1,3 +1,4 @@
 appending
 edit for untrack
 second file
+edited file2 from git repo
